@@ -14,7 +14,7 @@
 
 ## 나만의 설문조사 어플
 
-### [🔗파일 바로가기](https://github.com/SeoJH27/JH_SurveyApp, "SeoJH27/JH_SurveyApp") 
+### [🔗파일 바로가기](https://github.com/SeoJH27/JH_SurveyApp) 
 
 </br>
 
