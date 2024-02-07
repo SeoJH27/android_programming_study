@@ -14,7 +14,7 @@
 
 </br></br>
 
-## 나만의 설문조사 어플
+## 설문조사 어플
 
 ### [🔗파일 바로가기](https://github.com/SeoJH27/JH_SurveyApp) 
 
@@ -26,9 +26,9 @@
 
 </br></br></br></br>
 
-## 나만의 퀴즈 어플
+## 제목
 
-### [🔗파일 바로가기](https://github.com/SeoJH27/JH_QuizApp)
+### [🔗파일 바로가기](link)
 
 설명.
 
