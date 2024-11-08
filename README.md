@@ -18,11 +18,17 @@
 
 ### [🔗파일 바로가기](https://github.com/SeoJH27/JH_SurveyApp) 
 
-</br>
-
-고급 위젯을 다양하게 사용한 설문조사 어플입니다.
+고급 위젯을 다양하게 사용한 설문조사 앱 입니다.
 
 응답자의 정보를 지역적으로 저장해 제출하는 즉시 UI 상에 바로 출력합니다.
+
+</br></br></br></br>
+
+## Jetpack Compose 예제
+
+### [🔗파일 바로가기](https://github.com/SeoJH27/Kotlin_Compose_Study)
+
+Compose UI로 간단하게 만든 앱 입니다.
 
 </br></br></br></br>
 
