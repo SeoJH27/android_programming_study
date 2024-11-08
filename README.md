@@ -24,7 +24,7 @@
 
 </br></br></br></br>
 
-## Jetpack Compose 예제
+## Jetpack Compose Study
 
 ### [🔗파일 바로가기](https://github.com/SeoJH27/Kotlin_Compose_Study)
 
