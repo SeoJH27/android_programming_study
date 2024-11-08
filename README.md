@@ -28,7 +28,7 @@
 
 ### [🔗파일 바로가기](https://github.com/SeoJH27/Kotlin_Compose_Study)
 
-Compose UI로 간단하게 만든 앱 입니다.
+Android를 위한 현대적인 선언형 UI 도구 키트 Jetpack Compose에 대해 공부한 예제들 입니다.
 
 </br></br></br></br>
 
